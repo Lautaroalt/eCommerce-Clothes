@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Campera Tucson",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 5700
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Campera Patagonia",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Campera Everest",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 4990
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Campera Phoenix",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 3999
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Campera Mendoza",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Remera Azul",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Remera Playa",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Remera Blanca",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2600
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Remera Roja",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2700
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Remera Marron",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2100
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Remera Rosa",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2250
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Remera Verde",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Remera Celeste",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2100
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Veige",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 4100
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón Blanco",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3800
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón Negro",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3600
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón Oscuro",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3600
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón Verde",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3850
+    }
+]
